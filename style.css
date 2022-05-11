@@ -1,0 +1,45 @@
+body
+{
+ background-image:url('https://w0.peakpx.com/wallpaper/505/926/HD-wallpaper-yellow-paper-texture-macro-grunge-textures-retro-backgrounds-brown-paper-background-paper-backgrounds-paper-textures-old-paper-yellow-paper-old-paper-texture-paper-patterns.jpg');
+  margin-left:100px;
+}
+   
+h1
+{
+  color:blue;
+  text-align:center;
+  font-size:60px;
+  font-family:Impact;
+
+}
+p{
+  font-size:30px;
+  font-weight:900
+}
+.resp-container{
+   border: 14;
+   height: 60%;
+   left:810px;
+   position: absolute;
+   top: 800px;
+   width: 40%;
+}
+h2{
+  color:#330066;
+  font-weight:900;
+  font-size:36px;
+}
+}
+.resp-container{
+   border: 14;
+   height: 60%;
+   left:810px;
+   position: absolute;
+   top: 800px;
+   width: 40%;
+}
+h2{
+  color:#330066;
+  font-weight:900;
+  font-size:36px;
+}
